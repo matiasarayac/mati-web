@@ -1,4 +1,4 @@
-# Matias Araya Cohen Personal Web
+# Matias Araya Cohen - Personal Web
 
 This repo is dedicated to my personal web site www.mati.cl
 
